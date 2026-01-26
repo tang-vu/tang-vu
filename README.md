@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=500&lines=Full+Stack+Developer;Desktop+Apps+%7C+ML+%7C+Open+Source;Building+tools+for+developers" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=520&lines=Full+Stack+Developer;Web+%7C+Desktop+%7C+Mobile+%7C+Bots;300%2B+Projects+%7C+Open+Source" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,16 +25,22 @@
 const tangVu = {
   location: "Vietnam",
   website: "vibepress.net",
-  focus: ["Desktop Apps", "Machine Learning", "Open Source Tools"],
-  currentlyLearning: ["Rust", "AI/LLM Integration"],
-  funFact: "Death is like a wind always by my side",
   
-  askMeAbout: [
-    "Electron Desktop Apps",
-    "ML Predictions with 99%+ Accuracy", 
-    "Building Dev Tools",
-    "TypeScript & React"
-  ]
+  expertise: {
+    web: ["React", "Next.js", "Node.js", "TypeScript"],
+    desktop: ["Electron", "Tauri", "C#"],
+    mobile: ["Kotlin", "Android"],
+    ai: ["ML/Prediction", "LLM Integration", "Automation"],
+    bots: ["Telegram Bots", "Trading Bots", "Web Scraping"],
+    gamedev: ["Godot", "GDScript"]
+  },
+  
+  stats: {
+    totalProjects: "300+",
+    languages: ["JavaScript", "TypeScript", "Python", "Kotlin", "Rust", "C#"]
+  },
+  
+  funFact: "Death is like a wind always by my side"
 };
 ```
 
@@ -43,14 +49,14 @@ const tangVu = {
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,kotlin,rust,react,nextjs,tailwind,nodejs,electron,tauri&perline=11" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,tailwind,electron,tauri,kotlin&perline=10" />
 </p>
 
 <details>
 <summary><b>More Technologies</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,vite,git,github,docker,linux,vscode,figma,postgresql&perline=10" />
+  <img src="https://skillicons.dev/icons?i=rust,cs,godot,html,css,vite,git,github,docker,linux&perline=10" />
 </p>
 </details>
 
