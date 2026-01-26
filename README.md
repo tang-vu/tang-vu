@@ -129,7 +129,7 @@ const tangVu = {
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tang-vu&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-nine-alpha.vercel.app/?user=tang-vu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
