@@ -29,15 +29,10 @@ const tangVu = {
   expertise: {
     web: ["React", "Next.js", "Node.js", "TypeScript"],
     desktop: ["Electron", "Tauri", "C#"],
-    mobile: ["Kotlin", "Android"],
+    mobile: ["React Native"],
     ai: ["ML/Prediction", "LLM Integration", "Automation"],
     bots: ["Telegram Bots", "Trading Bots", "Web Scraping"],
     gamedev: ["Godot", "GDScript"]
-  },
-  
-  stats: {
-    totalProjects: "300+",
-    languages: ["JavaScript", "TypeScript", "Python", "Kotlin", "Rust", "C#"]
   },
   
   funFact: "Death is like a wind always by my side"
