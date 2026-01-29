@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=520&lines=Full+Stack+Developer;Web+%7C+Desktop+%7C+Mobile+%7C+Bots;300%2B+Projects+%7C+Open+Source" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=520&lines=Full+Stack+Developer;Web+%7C+Desktop+%7C+Mobile+%7C+Bots;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tang-vu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tang-vu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&count_private=true"/>
 </p>
 
 <p align="center">
