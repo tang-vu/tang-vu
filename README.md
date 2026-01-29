@@ -19,28 +19,6 @@
 
 ---
 
-## About Me
-
-```typescript
-const tangVu = {
-  location: "Vietnam",
-  website: "vibepress.net",
-  
-  expertise: {
-    web: ["React", "Next.js", "Node.js", "TypeScript"],
-    desktop: ["Electron", "Tauri", "C#"],
-    mobile: ["React Native"],
-    ai: ["ML/Prediction", "LLM Integration", "Automation"],
-    bots: ["Telegram Bots", "Trading Bots", "Web Scraping"],
-    gamedev: ["Godot", "GDScript"]
-  },
-  
-  funFact: "Death is like a wind always by my side"
-};
-```
-
----
-
 ## Tech Stack
 
 <p align="center">
@@ -57,75 +35,10 @@ const tangVu = {
 
 ---
 
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Memory Card Toolkit</h3>
-      <p align="center">
-        <a href="https://github.com/tang-vu/memory-card-toolkit">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tang-vu&repo=memory-card-toolkit&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Memory Card Toolkit"/>
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-      <p align="center"><i>Open source disk management tool for USB drives, SD cards, and internal disks.</i></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Bitcoin Prediction</h3>
-      <p align="center">
-        <a href="https://github.com/tang-vu/bitcoin-prediction">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tang-vu&repo=bitcoin-prediction&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Bitcoin Prediction"/>
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/99.98%25_R²-00C853?style=flat-square"/>
-      </p>
-      <p align="center"><i>ML-powered Bitcoin hourly price prediction with technical indicators.</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">X Algorithm Playbook</h3>
-      <p align="center">
-        <a href="https://github.com/tang-vu/x-algorithm-playbook">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tang-vu&repo=x-algorithm-playbook&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="X Algorithm Playbook"/>
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Guide-FF6B6B?style=flat-square"/>
-        <img src="https://img.shields.io/github/stars/tang-vu/x-algorithm-playbook?style=flat-square&color=FFD700"/>
-      </p>
-      <p align="center"><i>Definitive guide to maximizing reach on X (Twitter).</i></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">DevBoot</h3>
-      <p align="center">
-        <a href="https://github.com/tang-vu/devboot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tang-vu&repo=devboot&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="DevBoot"/>
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      </p>
-      <p align="center"><i>Auto-run terminal projects on Windows startup.</i></p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tang-vu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tang-vu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8"/>
 </p>
 
 <p align="center">
@@ -134,14 +47,6 @@ const tangVu = {
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tang-vu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" width="100%"/>
-</p>
-
----
-
-## Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tang-vu&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
 </p>
 
 ---
