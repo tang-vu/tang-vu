@@ -12,7 +12,7 @@
 
 <!-- Profile Badges -->
 <p align="center">
-  <a href="https://vibepress.net"><img src="https://img.shields.io/badge/Website-vibepress.net-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://tangvu.dev"><img src="https://img.shields.io/badge/Website-tangvu.dev-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="mailto:vuminhtang2212@gmail.com"><img src="https://img.shields.io/badge/Hireable-Yes-00C853?style=for-the-badge&logo=checkmarx&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=tang-vu&style=for-the-badge&color=6366F1" alt="Profile Views"/>
 </p>
@@ -54,8 +54,8 @@
 ## Connect With Me
 
 <p align="center">
-  <a href="https://vibepress.net">
-    <img src="https://img.shields.io/badge/Website-vibepress.net-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <a href="https://tangvu.dev">
+    <img src="https://img.shields.io/badge/Website-tangvu.dev-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   <a href="https://github.com/tang-vu">
     <img src="https://img.shields.io/badge/GitHub-tang--vu-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -70,9 +70,4 @@
 
 <p align="center">
   <i>"Death is like a wind always by my side"</i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-6366F1?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-00C853?style=flat-square"/>
 </p>
